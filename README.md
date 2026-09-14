@@ -2,7 +2,7 @@
 
 M.S. Computer Science student at Northeastern University in Vancouver, transitioning from entrepreneurship into software engineering. I'm looking for software engineering internship opportunities.
 
-I enjoy building practical tools and understanding how systems work—from full-stack business applications to desktop utilities and persistent state management.
+I enjoy building practical tools and understanding how systems work. My projects explore full-stack business applications, desktop utilities, and AI integration, with a focus on clear data models and useful everyday workflows.
 
 ## Selected Projects
 
@@ -25,6 +25,16 @@ A compact desktop widget for tracking monthly and yearly goals.
 - Windows, macOS, and Linux build workflows configured with GitHub Actions
 
 **JavaScript · Electron · HTML/CSS · GitHub Actions**
+
+### [AI Diet Assistant](https://github.com/Shangguan-ZIYI/AI-Diet-Assistant) — Full-Stack Prototype
+
+An early prototype for collecting dietary preferences and generating personalized meal plans with DeepSeek.
+
+- Next.js and TypeScript application with credentials authentication and Prisma/SQLite data models
+- AI-assisted questionnaire and meal-plan generation, with meal feedback and health-record workflows
+- Still in development; build and runtime validation remain to be completed
+
+**TypeScript · Next.js · React · Prisma · SQLite · DeepSeek API**
 
 ## Background
 
